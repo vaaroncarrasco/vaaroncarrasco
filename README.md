@@ -1,16 +1,36 @@
-### Hi there 👋
+# Hello world! ✌️
 
-<!--
-**vaaroncarrasco/vaaroncarrasco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔴 C O N T A C T | vaaroncarrasco@gmail.com
+🔴 P O R T F O L I O | https://vaaroncarrasco.com
+🔴 L I N K E D I N | https://www.linkedin.com/in/vaaroncarrasco
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚒️ S K I L L S
+
+•  🟨  JavaScript  🟦 TypeScript |  JEST - Express - React - Node - Next.js - MERN
+
+•  🐘 PHP | Laravel - MySQL - SQLite
+
+• 🐍 Python | Django - Flask - MySQL - SQLite
+
+• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB 
+
+• 💻 Programming skills | Unit Testing - MVC - OOP - PWA - SPA - Data Structures/Algorithms - Clean code
+
+• 🧠 Personal skills  | Creative & Problem solver
+
+• 📂 VCS | Git - GitHub - GitLab - Markdown
+
+• 🖼️ Web Design | HTML5 - CSS3/SASS - Bootstrap/Tailwind/JQuery - BEM - SEO
+
+• 🎨 Design | UI/UX - AdobeXD - Figma - Framer - Adobe Photoshop - Pixelmator
+
+• 🐧 OS | Windows - Linux - MAC OS
+
+• 🖥️ IDE | Visual Studio Code - Vim
+
+
+➕ B I O
+
+Hello world! My name is Aaron Carrasco, but everybody calls me Aaron.
+I'm a software developer based in Cancun, Mexico and I love developing/designing web apps.
