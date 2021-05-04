@@ -17,17 +17,11 @@
 
 • 💻 Programming skills | Unit Testing - MVC - OOP - PWA - SPA - Data Structures/Algorithms - Clean code
 
-• 🧠 Personal skills  | Creative & Problem solver
-
 • 📂 VCS | Git - GitHub - GitLab - Markdown
 
-• 🖼️ Web Design | HTML5 - CSS3/SASS - Bootstrap/Tailwind/JQuery - BEM - SEO
+• 🖼️ Web Design | HTML5 - CSS3/SASS - Bootstrap/Tailwind/JQuery - BEM - SEO - SEM
 
-• 🎨 Design | UI/UX - AdobeXD - Figma - Framer - Adobe Photoshop - Pixelmator
-
-• 🐧 OS | Windows - Linux - MAC OS
-
-• 🖥️ IDE | Visual Studio Code - Vim
+• 🎨 Design | UI/UX - AdobeXD - Figma - Framer - Webflow - Adobe Photoshop - Pixelmator
 
 
 ➕ B I O
