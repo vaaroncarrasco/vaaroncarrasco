@@ -27,4 +27,5 @@
 ➕ B I O
 
 Hello world! 
-  My name is Aaron Carrasco. I'm a software developer based in Cancun, Mexico and I love developing/designing web apps.
+  My name is Aaron Carrasco <br>
+  .I'm a software developer based in Cancun, Mexico and I love developing/designing web apps.
