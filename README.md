@@ -13,7 +13,7 @@
 
 • 🐍 Python | Django - Flask - MySQL - SQLite
 
-• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB 
+• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB - SQL / NoSQL
 
 • 💻 Programming skills | Unit Testing - MVC - OOP - PWA - SPA - Data Structures/Algorithms - Clean code
 
