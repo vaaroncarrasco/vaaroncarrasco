@@ -1,8 +1,8 @@
 ### Full-Stack Web Developer | Aaron Carrasco ✌️
 
-🔴 C O N T A C T | vaaroncarrasco@gmail.com <br>
-🔴 P O R T F O L I O | http://www.aaroncarrasco.me // not ready yet <br>
-🔴 L I N K E D I N | https://www.linkedin.com/in/vaaroncarrasco
+🔴  C O N T A C T | vaaroncarrasco@gmail.com <br>
+🔴  P O R T F O L I O | http://www.aaroncarrasco.me // not ready yet <br>
+🔴  L I N K E D I N | https://www.linkedin.com/in/vaaroncarrasco
 
 
 ⚒️ S K I L L S
@@ -13,11 +13,11 @@
 
 • 🐍 Python | Django - Flask - MySQL - SQLite
 
-• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB - SQL / NoSQL
+• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB
 
 • 💻 Programming skills | Unit Testing - MVC - OOP - PWA - SPA - Data Structures/Algorithms - Clean code
 
-• 📂 VCS | Git - GitHub - GitLab - Markdown
+• 📂 VCS | Git - GitHub 
 
 • 🖼️ Web Design | HTML5 - CSS3/SASS - Bootstrap/Tailwind/JQuery - BEM - SEO - SEM
 
