@@ -1,4 +1,4 @@
-###Software Engineering Student | Aaron Carrasco ✌️
+### Software Engineering Student | Aaron Carrasco ✌️
 
 🔴  C O N T A C T | vaaroncarrasco@gmail.com <br>
 🔴  P O R T F O L I O | http://www.aaroncarrasco.me // not ready yet <br>
