@@ -1,4 +1,4 @@
-### Software Engineering Student | Aaron Carrasco ✌️
+### Software Develoepr | Aaron Carrasco ✌️
 
 🔴  P O R T F O L I O | http://www.aaroncarrasco.me // not ready yet <br>
 🔴  L I N K E D I N | https://www.linkedin.com/in/vaaroncarrasco
