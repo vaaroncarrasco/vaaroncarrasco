@@ -1,4 +1,4 @@
-### Software Develoepr | Aaron Carrasco ✌️
+### Software Developer | Aaron Carrasco ✌️
 
 portfolio: http://www.aaroncarrasco.me // not ready yet <br>
 linkedin: https://www.linkedin.com/in/vaaroncarrasco
