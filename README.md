@@ -1,29 +1,7 @@
 ### Software Develoepr | Aaron Carrasco ✌️
 
-🔴  P O R T F O L I O | http://www.aaroncarrasco.me // not ready yet <br>
-🔴  L I N K E D I N | https://www.linkedin.com/in/vaaroncarrasco
-
-
-⚒️ S K I L L S
-
-•  🟨  JavaScript  🟦 TypeScript |  JEST - Express - React - Node - Next.js - MERN
-
-•  🐘 PHP | Laravel - MySQL - SQLite
-
-• 🐍 Python | Django - Flask - MySQL - SQLite
-
-• 💾 Database | SQL Database Diagram Design  - MySQL/SQLite - MongoDB
-
-• 💻 Programming skills | Unit Testing - MVC - OOP - PWA - SPA - Data Structures/Algorithms - Clean code
-
-• 📂 VCS | Git - GitHub 
-
-• 🖼️ Web Design | HTML5 - CSS3/SASS - Bootstrap/Tailwind/JQuery - BEM - SEO - SEM
-
-• 🎨 Design | UI/UX - AdobeXD - Figma - Framer - Webflow - Adobe Photoshop - Pixelmator
-
-
-➕ B I O
+portfolio: http://www.aaroncarrasco.me // not ready yet <br>
+linkedin: https://www.linkedin.com/in/vaaroncarrasco
 
 Hello world! My name is Aaron Carrasco <br>
 I'm a software developer based in Cancun, Mexico and I love developing/designing web apps.
