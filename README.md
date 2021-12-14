@@ -1,7 +1,7 @@
 ### Front End Web Developer | Aaron Carrasco ✌️
 
 portfolio: www.aaroncarrasco.com <br>
-linkedin: www.linkedin.com/in/vaaroncarrasco
+linkedin: www.linkedin.com/in/vaaroncarrasco <br>
 twitter: https://twitter.com/_aaroncarrasco
 
 Hello world! My name is Aaron Carrasco <br>
