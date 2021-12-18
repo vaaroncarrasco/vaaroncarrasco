@@ -1,4 +1,4 @@
-### Front End Web Developer | Aaron Carrasco 👁️
+### TypeScript & JavaScript Full Stack Web Developer | Aaron Carrasco 👁️
 
 email: hello@aaron-carrasco.com <br>
 portfolio: www.aaron-carrasco.com <br>
